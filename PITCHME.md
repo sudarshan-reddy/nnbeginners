@@ -59,6 +59,16 @@
 
 ---
 
+## <span style="font-family:Rockitt; font-weight:bold">Facial Recognition?</span>
+
+---
+
+
+## <span style="font-family:Rockitt; font-weight:bold">Sound analysis?</span>
+
+---
+
+
 ## <span style="font-family:Rockitt; font-weight:bold">Must definitely be new right?</span>
 
 ---
