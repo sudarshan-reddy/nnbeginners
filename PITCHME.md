@@ -7,6 +7,14 @@
 
 ---
 
+![actual](assets/humannn.jpeg)
+
+---
+
+![perceptron](assets/perceptron.jpeg)
+
+---
+
 ## <span style="font-family:Rockitt; font-weight:bold">Why are they cool?</span>
 
 --- 
