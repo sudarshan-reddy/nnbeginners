@@ -19,6 +19,46 @@
 
 --- 
 
+## <span style="font-family:Rockitt; font-weight:bold">Software 2.0</span>
+
+---
+
+## <span style="font-family:Rockitt; font-weight:bold">How would you add two numbers?</span>
+
+---
+
+## <span style="font-family:Rockitt; font-weight:bold">With a Neural Network?</span>
+
+---
+
+## <span style="font-family:Rockitt; font-weight:bold">Wait what...</span>
+
+---
+
+## <span style="font-family:Rockitt; font-weight:bold">How would you subtract two numbers?</span>
+
+---
+
+## <span style="font-family:Rockitt; font-weight:bold">With a Neural Network?</span>
+
+---
+
+## <span style="font-family:Rockitt; font-weight:bold">Multiply?</span>
+
+---
+
+## <span style="font-family:Rockitt; font-weight:bold">Divide?</span>
+
+---
+
+## <span style="font-family:Rockitt; font-weight:bold">Find percentages?</span>
+
+---
+
+## <span style="font-family:Rockitt; font-weight:bold">The answer to life, the universe and everything?</span>
+
+---
+
 ## <span style="font-family:Rockitt; font-weight:bold">Must definitely be new right?</span>
 
 ---
