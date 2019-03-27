@@ -17,17 +17,31 @@
 
 ## <span style="font-family:Rockitt; font-weight:bold">Why are they cool?</span>
 
---- 
-
-## <span style="font-family:Rockitt; font-weight:bold">Software 2.0</span>
-
 ---
 
 ## <span style="font-family:Rockitt; font-weight:bold">How would you add two numbers?</span>
 
+
+```
+    x = 5
+    y = 6
+
+    print(x+y)
+```
+
 ---
 
 ## <span style="font-family:Rockitt; font-weight:bold">With a Neural Network?</span>
+
+```
+    x = 5
+    y = 6
+    X = [(9,6), (1,3), (4,6)]
+    Y = [15, 4, 10]
+
+    model = train(X,Y)
+    model.predict((x,y))
+```
 
 ---
 
@@ -37,9 +51,28 @@
 
 ## <span style="font-family:Rockitt; font-weight:bold">How would you subtract two numbers?</span>
 
+```
+    x = 5
+    y = 6
+
+    print(x-y)
+```
+
+
 ---
 
 ## <span style="font-family:Rockitt; font-weight:bold">With a Neural Network?</span>
+
+```
+    x = 7
+    y = 6
+    X = [(9,6), (3,1), (6,4)]
+    Y = [3, 2, 2]
+
+    model = train(X,Y)
+    model.predict((x,y))
+```
+
 
 ---
 
