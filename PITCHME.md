@@ -78,17 +78,79 @@
 
 ## <span style="font-family:Rockitt; font-weight:bold">Multiply?</span>
 
+
+```
+    x = 5
+    y = 6
+
+    print(x*y)
+```
+
+
+```
+    x = 7
+    y = 6
+    X = [(9,6), (3,1), (6,4)]
+    Y = [18, 3, 24]
+
+    model = train(X,Y)
+    model.predict((x,y))
+```
+
+
+
 ---
 
 ## <span style="font-family:Rockitt; font-weight:bold">Divide?</span>
+
+
+```
+    x = 5
+    y = 6
+
+    print(x/y)
+```
+
+
+```
+    x = 7
+    y = 6
+    X = [(9,6), (3,1), (6,4)]
+    Y = [1, 3, 1]
+
+    model = train(X,Y)
+    model.predict((x,y))
+```
+
 
 ---
 
 ## <span style="font-family:Rockitt; font-weight:bold">Find percentages?</span>
 
+
+```
+    x = 5
+    y = 6
+
+    print((x/y)*100))
+```
+
+
+```
+    x = 7
+    y = 6
+    X = [(1,10), (3,1), (6,4)]
+    Y = [10, 300, 150]
+
+    model = train(X,Y)
+    model.predict((x,y))
+```
+
 ---
 
 ## <span style="font-family:Rockitt; font-weight:bold">The answer to life, the universe and everything?</span>
+
+42. Obviously.
 
 ---
 
