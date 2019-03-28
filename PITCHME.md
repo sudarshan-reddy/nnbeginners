@@ -52,9 +52,6 @@
 ## <span style="font-family:Rockitt; font-weight:bold">How would you subtract two numbers?</span>
 
 ```
-    x = 5
-    y = 6
-
     print(x-y)
 ```
 
@@ -64,8 +61,6 @@
 ## <span style="font-family:Rockitt; font-weight:bold">With a Neural Network?</span>
 
 ```
-    x = 7
-    y = 6
     X = [(9,6), (3,1), (6,4)]
     Y = [3, 2, 2]
 
@@ -80,16 +75,11 @@
 
 
 ```
-    x = 5
-    y = 6
-
     print(x*y)
 ```
 
 
 ```
-    x = 7
-    y = 6
     X = [(9,6), (3,1), (6,4)]
     Y = [18, 3, 24]
 
@@ -105,16 +95,11 @@
 
 
 ```
-    x = 5
-    y = 6
-
     print(x/y)
 ```
 
 
 ```
-    x = 7
-    y = 6
     X = [(9,6), (3,1), (6,4)]
     Y = [1, 3, 1]
 
@@ -129,16 +114,11 @@
 
 
 ```
-    x = 5
-    y = 6
-
     print((x/y)*100))
 ```
 
 
 ```
-    x = 7
-    y = 6
     X = [(1,10), (3,1), (6,4)]
     Y = [10, 300, 150]
 
@@ -155,6 +135,17 @@
 ---
 
 ## <span style="font-family:Rockitt; font-weight:bold">Facial Recognition?</span>
+
+```
+???
+```
+
+```
+    X = [(img tensor1), (img tensor2), (img tensor3)]
+    Y = [img_label1, img_label2, img_label3]
+    model = train(X,Y)
+    model.predict((x,y))
+```
 
 ---
 
