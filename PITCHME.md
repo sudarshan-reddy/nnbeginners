@@ -150,7 +150,7 @@
 
 ## <span style="font-family:Rockitt; font-weight:bold">The answer to life, the universe and everything?</span>
 
-42. Obviously.
+   42\. Obviously.
 
 ---
 
