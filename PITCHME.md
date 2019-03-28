@@ -152,6 +152,18 @@
 
 ## <span style="font-family:Rockitt; font-weight:bold">Sound analysis?</span>
 
+```
+???
+```
+
+```
+    X = [(sound tensor1), (sound tensor2), (sound tensor3)]
+    Y = [sound_label1, sound_label2, sound_label3]
+    model = train(X,Y)
+    model.predict((x,y))
+```
+
+
 ---
 
 
